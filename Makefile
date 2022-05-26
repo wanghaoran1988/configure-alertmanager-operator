@@ -1,3 +1,4 @@
+FIPS_ENABLED=true
 # Include boilerplate's generated Makefile libraries
 include boilerplate/generated-includes.mk
 
